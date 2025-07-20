@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zgoodman27/Project-server-blog.git"
+    "url": "git+https://github.com/notgnirrac/serv3rblog.gitt"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/zgoodman27/Project-server-blog/issues"
+    "url": "https://github.com/notgnirrac/serv3rblog.git/issues"
   },
-  "homepage": "https://github.com/zgoodman27/Project-server-blog#readme",
+  "homepage": "https://github.com/notgnirrac/serv3rblog.git",
   "dependencies": {
     "dotenv": "^17.2.0",
     "express": "^5.1.0",

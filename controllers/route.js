@@ -40,7 +40,7 @@ app.get("/:post_id", (req, res) => {
 });
 
 // [ ] Endpoint that will allow us to create a new entry which will be appended to the .json file's outermost array.
-app.post("/create/:post_id", (req, res) => {
+app.post("/create", (req, res) => {
   try {
     const blogDataResult = refreshBlogData();
     const newBlogPost = req.body;
